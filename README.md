@@ -68,9 +68,13 @@ Try to beat your highest score! 🏆
 🔹 Add difficulty modes (Easy / Medium / Hard)
 
 🔹 Add sound on/off control
+
 🔹 Add leaderboard system
+
 🔹 Store high score using Local Storage
+
 🔹 Add dark/light theme toggle
+
 
 <img width="1918" height="867" alt="simon says" src="https://github.com/user-attachments/assets/05e17746-f409-4d7d-96bd-48faab3bc348" />
 
