@@ -3,6 +3,7 @@
 An interactive and fun memory-based game built using HTML, CSS, and JavaScript.
 Test your concentration, improve your memory power, and challenge yourself to beat your highest score! 🚀
 
+---
 
 🧠 About the Game
 
@@ -18,6 +19,7 @@ Simon Says is a classic electronic memory game where players must repeat a growi
 
 The challenge increases as the sequence gets longer! 💡🔥
 
+---
 
 ✨ Features
 
@@ -33,6 +35,7 @@ The challenge increases as the sequence gets longer! 💡🔥
 
 ✅ Simple and clean user interface
 
+---
 
 🛠️ Tech Stack
 
@@ -42,6 +45,7 @@ The challenge increases as the sequence gets longer! 💡🔥
 
 ⚡ JavaScript – Game logic and interactivity
 
+---
 
 🎯 How to Play
 
@@ -57,6 +61,7 @@ The challenge increases as the sequence gets longer! 💡🔥
 
 Try to beat your highest score! 🏆
 
+---
 
 🚀 Future Improvements
 
